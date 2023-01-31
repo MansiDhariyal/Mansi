@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [mansi](https://mansidhariyal.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [my_portfolio](https://mansidhariyal.github.io/My_Portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JS, nodeJS, express, Python**
 
