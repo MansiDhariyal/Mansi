@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mansi Dhariyal</h1>
-<h3 align="center">A full Stack Web Developer from India</h3>
+<h3 align="center">A Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/90508485/215757065-737afc98-9759-421e-aadf-6ca69a1a9bc2.png">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [my_portfolio](https://mansidhariyal.github.io/My_Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JS, nodeJS, express, Python**
+- 💬 Ask me about **HTML, CSS, JS, nodeJS, express,MERN, 
 
 - 📫 How to reach me **mansidhariyal2001@gmail.com**
 
